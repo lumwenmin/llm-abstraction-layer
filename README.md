@@ -1,10 +1,6 @@
 # LLM Abstraction Layer
 
----
-
 Welcome to this personal project of mine! This repository is dedicated to creating an abstraction layer designed specifically for Large Language Models (LLMs). The goal of this project is to simplify the integration and utilization of various LLM APIs, such as OpenAI and Anthropic, enabling developers to seamlessly switch between them with minimal effort.
-
----
 
 ## Project Overview
 
